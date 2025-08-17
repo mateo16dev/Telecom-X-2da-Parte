@@ -18,7 +18,7 @@ Challenge-Telecom-X---Alura/
 🛠️ **Tecnologías y librerías:**  
 - **Python 3.10**
 - **Google Colab**
-- ** Librerias**
+- **Librerias**
   - pandas
   - numpy
   - requests
